@@ -142,7 +142,7 @@ spotify-mds-pipeline/
   - 📈 **Trends Over Time (Line Chart)**  
   - 💽 **Device-Type Distribution (Donut Chart)**
 
-<img width="1313" height="728" alt="dashboard (2)" src="https://github.com/user-attachments/assets/87b4b28d-9dfa-4346-8550-0a7f05718455" />
+<img width="1313" height="728" alt="dashboard (2)" src="dashboard.jpg" />
 
 ---
 
